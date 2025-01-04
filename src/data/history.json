@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Software Enginer Intern",
+      "organisation": "Talon Biomarkers",
+      "startDate": "Aug, 2024",
+      "endDate": "Present",
+      "experiences": ["Created AI to analyze graph data about the healthcare industry", "Tested software modules to ensure robust performances"],
+      "imageSrc": "history/talonbiomarkers.png"
+    },
+
+    {
+      "role": "Full-Stack Software Enginer Intern",
+      "organisation": "Iwanciw Functional Funware",
+      "startDate": "Apr, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Developed and maintained front-end and back-end of the company website", "Added an 23% increase in user satisfaction"],
+      "imageSrc": "history/IFF.png"
+    },
+
+    {
+      "role": "Coding Instructor",
+      "organisation": "Code Ninjas",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": ["Educated over 200 students in Python, JavaScript, and Java", "Led Bootcamps on topics such as AI and Web Development"],
+      "imageSrc": "history/codeninjas.png"
+    }
+  ]
