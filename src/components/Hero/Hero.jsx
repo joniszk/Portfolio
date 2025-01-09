@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -10,7 +8,7 @@ export const Hero = () => {
                 <h1 className={styles.title}>Hi, I'm Jacob</h1>
                 <p className={styles.description}>
                 I'm a computer science major student, passionate about technology 
-                and dedicated to mastering coding and problem-solving.
+                and dedicated to mastering programming and problem-solving.
                 </p>
                 <a href="mailto:jacoboniszk@gmail.com" className={styles.contactBtn}>
                     Contact Me
