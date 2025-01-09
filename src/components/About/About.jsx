@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -10,7 +8,7 @@ export const About =() => {
                 <div className={styles.content}>
                     <img 
                         src={getImageUrl("about/computer2.png")} 
-                        alt="Me sitting with a laptop" 
+                        alt="a computer monitor icon" 
                         className={styles.aboutImage}
                     />
                     <ul className={styles.aboutItems}>
@@ -19,8 +17,7 @@ export const About =() => {
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
                             <p> 
-                                I'm a frontend developer with experience in building responsive
-                                 and optimized sites
+                                I'm a frontend developer with experience building responsive and optimized sites using React
                             </p>
                         </div>
                         </li>
@@ -38,8 +35,7 @@ export const About =() => {
                         <div className={styles.aboutItemText}>
                             <h3>UI Designer</h3>
                             <p> 
-                                I have designed multiple landing pages and have created design 
-                                systems as well
+                                I have designed multiple landing pages and created cohesive website designs as well
                             </p>
                         </div>
                         </li>
